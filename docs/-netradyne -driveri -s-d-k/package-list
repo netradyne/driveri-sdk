@@ -2,16 +2,15 @@ $dokka.format:html-v1
 $dokka.linkExtension:html
 
 com.netradyne.driverisdk
-com.netradyne.driverisdk.api
 com.netradyne.driverisdk.appBeacon
 com.netradyne.driverisdk.auth
 com.netradyne.driverisdk.coaching
+com.netradyne.driverisdk.error
 com.netradyne.driverisdk.eventAccess
 com.netradyne.driverisdk.eventFeedback
 com.netradyne.driverisdk.events
 com.netradyne.driverisdk.feedback
 com.netradyne.driverisdk.greenzone
-com.netradyne.driverisdk.notifications
 com.netradyne.driverisdk.user
 com.netradyne.driverisdk.video
 
