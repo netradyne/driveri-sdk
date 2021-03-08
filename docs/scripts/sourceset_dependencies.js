@@ -1,1 +1,0 @@
-sourceset_dependencies = '{":DriveriSDK:dokkaHtml/androidAndroidTestRelease": [], ":DriveriSDK:dokkaHtml/androidDebug": [], ":DriveriSDK:dokkaHtml/androidRelease": [], ":DriveriSDK:dokkaHtml/commonMain": []}'
