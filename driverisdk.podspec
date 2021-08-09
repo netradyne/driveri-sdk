@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = "driverisdk"
-    spec.version      = 1.0.4.2
+    spec.version      = '1.0.4.2'
     spec.summary      = "Netradyne Driveri SDK"
     spec.homepage     = "https://www.netradyne.com"
     spec.license      = "MIT"
