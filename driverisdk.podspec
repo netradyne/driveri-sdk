@@ -1,13 +1,13 @@
 Pod::Spec.new do |spec|
     spec.name         = "driverisdk"
-    spec.version      = "1.0.4.1"
+    spec.version      = 1.0.4.1.1
     spec.summary      = "Netradyne Driveri SDK"
     spec.homepage     = "https://www.netradyne.com"
     spec.license      = "MIT"
     spec.license      = { :type => "Apache License, Version 2.0", :file => "LICENSE" }
     spec.author       = { "apps-help" => "apps-help@netradyne.com" }
     spec.platform     = :ios
-    spec.source       = { :http => 'https://github.com/netradyne/driveri-sdk/raw/master/releases/1.0.4.1/driverisdk.zip' }
+    spec.source       = { :http => 'https://github.com/netradyne/driveri-sdk/raw/master/releases/1.0.4.1.1/driverisdk.zip' }
     spec.ios.deployment_target = '12.0'
     spec.static_framework         = true
     spec.ios.vendored_frameworks = 'DriveriSDK.framework'

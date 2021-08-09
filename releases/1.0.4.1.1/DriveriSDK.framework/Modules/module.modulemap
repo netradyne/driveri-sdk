@@ -1,0 +1,6 @@
+framework module DriveriSDK {
+    umbrella header "DriveriSDK.h"
+
+    export *
+    module * { export * }
+}
